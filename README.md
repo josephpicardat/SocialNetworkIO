@@ -38,7 +38,7 @@ Step 4: Go into insomnia and create your desired data
 
 Video Walkthrough: https://drive.google.com/file/d/1GDQXji8dfqGMXQ9E0BlFN2RmEM6Ro5et/view?usp=sharing
 
-![Image of application](assets/SocialNetWorkIO.png)
+![Image of application](Assets/SocialNetWorkIO.png)
 
 ## Contributing
 
